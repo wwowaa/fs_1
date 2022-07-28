@@ -1,0 +1,24 @@
+{
+  "name": "git_node",
+  "version": "1.0.0",
+  "description": "Test directory",
+  "main": "index.html",
+  "scripts": {
+  	"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwowaa/fs_1.git"
+  },
+  "author": "wwowaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwowaa/fs_1/issues"
+  },
+  "homepage": "https://github.com/wwowaa/fs_1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
